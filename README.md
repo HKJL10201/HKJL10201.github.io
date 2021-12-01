@@ -11,21 +11,18 @@ My name is (Levi) Taiji Li, I am a PhD student at University of Utah, started fr
 ### Research
 
 #### Adversarial Example Generation
-RA to Prof. Ying Gao in SCUT, 2021
 - Studied and designed algorithms for adversarial example generation based on deep learning 
 - Read papers related to black-box attacks, analyzed the threat of adversarial attacks
 - Re-implemented methods in the papers and optimized the algorithms such as One Pixel Attack and DeepFool
 - Generated adversarial samples using optimized data-free training algorithms to perform black-box attacks
 
 #### Computer Vision Application on Edge-based Systems
-RA to Prof. Noah Gift in UC Berkeley, 2020
 - Designed computer vision applications on mobile devices for real-world scenarios
 - Trained neural network models with AutoML platforms such as Google Cloud Platform and Amazon Web Services
 - Developed an Android application for handwritten character classification with 88% testing accuracy
 - Developed an iOS application for allergens detection with 70% accuracy
 
 #### Precise Ship Identification
-RA to Prof. Jianming Lv in SCUT, 2020
 - Developed a surveillance system to identify and locate ships in river monitoring
 - Implemented incipient identification function using a pre-trained YOLOv3 model
 - Improved the accuracy of ship identification to more than 75% by training with 1,617 labeled data
