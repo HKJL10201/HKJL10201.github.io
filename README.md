@@ -5,6 +5,7 @@ My name is (Levi) Taiji Li, I am a PhD student at University of Utah, started fr
 ### Education
 
 2021 - Present: University of Utah, PhD in computer science
+
 2017 - 2021: South China University of Technology, BE in computer science
 
 ### Publication
